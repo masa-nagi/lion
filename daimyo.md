@@ -2,9 +2,9 @@
 
 ## 防衛
 
-![襲撃中](./1.png)
-![襲撃中 - 詳細画面](./2.png)
-![襲撃直後](./3.png)
-![偵察の戻りはバレる](./4.png)
-![一部の資源は戻ってくる](./5.png)
+<img src="./1.png" width="320px">
+<img src="./2.png" width="320px">
+<img src="./3.png" width="320px">
+<img src="./4.png" width="320px">
+<img src="./5.png" width="320px">
 
