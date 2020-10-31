@@ -99,7 +99,7 @@ NPCが来るところに指令を出す
 <img src="./img/command/img11.png" width="200px">  
 <br>
 
-<img src="./img/command/img10.png" width="200px">  
+<img src="./img/command/img13.png" width="200px">  
 <br>
 <img src="./img/command/img12.png" width="200px">  
 
