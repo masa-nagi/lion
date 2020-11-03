@@ -1,4 +1,4 @@
 # 獅子の如く
-- [Tips](./tips.md)
+- [Tips](./tips/)
 - [一族指令](./command.md)
-- [Event](./event.md)
+- [Event](./event/event.md)
